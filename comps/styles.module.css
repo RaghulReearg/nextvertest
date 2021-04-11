@@ -1,0 +1,24 @@
+.footer{
+    text-align: center;
+}
+.navbar{
+    padding: 10px;
+    background: lightskyblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100vw;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+}
+.link{
+    display: flex;
+    width: 20rem;
+    justify-content: space-between;
+   
+}
+.container{
+    padding: 10px 30px;
+}
